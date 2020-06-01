@@ -76,3 +76,5 @@ store.dispatch(createClaim('Jim', 50));
 store.dispatch(deletePolicy('Bob'))
 
 console.log(store.getState());
+
+// More Explicit, Clearly: https://viblo.asia/p/redux-co-ban-m68Z00JdZkG
