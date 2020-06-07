@@ -77,4 +77,5 @@ store.dispatch(deletePolicy('Bob'))
 
 console.log(store.getState());
 
+// This code try on codepen.io, install redux for JS
 // More Explicit, Clearly: https://viblo.asia/p/redux-co-ban-m68Z00JdZkG
