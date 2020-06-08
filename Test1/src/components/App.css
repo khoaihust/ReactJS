@@ -1,0 +1,180 @@
+input:focus {
+    outline: none;
+}
+
+.OverallContainer {
+    border: 1px solid black;
+    /* padding: 1% 2% 1% 2%; */
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px; */
+
+}
+
+.body {
+    padding: 1% 2% 1% 2%;
+}
+
+.Header {
+    padding: 1% 2% 1% 2%;
+    background-color: rgb(228, 229, 230);
+}
+
+.footer {
+    padding: 1% 2% 1% 2%;
+    background-color: rgb(233,244,251);
+}
+
+.title {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:  rgb(228, 229, 230)   ;
+}
+
+.btn {
+    background-color:  rgb(228, 229, 230)   ;
+    border: none;
+    padding: 1px 0px;
+    position: relative;
+    left: 89%;
+    /* outline: none; */
+}
+
+button:hover {
+    background-color: red;
+}
+
+/* .col1 {
+    background-color: rgb(240, 243, 245);
+} */
+
+.grid {
+    margin: 0rem !important;
+}
+
+.tenCol {
+    background-color: white;
+    padding-top: 1rem !important;
+    padding-right: 1rem !important;
+    border: 1px solid rgb(212, 212, 213);
+    
+}
+
+.sixCol {
+    background-color: rgb(240, 243, 245);
+    padding-top: 1 rem !important;
+    padding-right: 1rem !important;
+    border: 1px solid rgb(212, 212, 213);
+}
+
+.in {
+    width: 22rem ;
+    font-size: 12pt;
+}
+.card {
+    margin-top: 10%;
+}
+
+.contentHeaderCard {
+    margin: 0;
+    padding: 0px !important;
+    background-color: rgb(228, 229, 230) !important;
+}
+
+.header {
+    padding: 1.5%;
+    /* background-color: rgb(228, 229, 230); */
+}
+
+.inCard {
+    height: 3rem;
+}
+
+.eight {
+    grid-template-columns: 0 0;
+    padding:0px !important;
+    /* border: 2px solid rgb(212, 212, 213); */
+    /* border-left: 2px solid rgb(212, 212, 213);
+    border-: 2px solid rgb(212, 212, 213); */
+}
+
+.btnPreview {
+    background-color: rgb(80,156,200) !important;
+    color: white !important;
+    border-radius: 22px !important;
+    width: 30% !important;
+}
+
+.eye {
+    color: white !important;
+}
+
+.btnSave {
+    background-color: rgb(216,173,63) !important;
+    color: white !important;
+    border-radius: 22px !important;
+    margin-left: 10% !important;
+    width: 30% !important;
+}
+
+.btnNext {
+    background-color: rgb(17,142,21) !important;
+    color: white !important;
+    border-radius: 22px !important;
+
+}
+
+.borderFooter {
+    border-right: 2px solid rgb(212, 212, 213);
+}
+
+.inputFooter {
+    width: 19rem ;
+    font-size: 12pt;
+    height: 3rem;
+    border: 2px solid rgb(212, 212, 213);
+}
+
+.selectFooter {
+    height: 3rem;
+    border: 2px 2px 2px solid solid rgb(212, 212, 213) !important;
+}
+
+option::selection {
+    font-size:12pt;
+}
+
+.eightCol {
+    background-color: rgb(240, 243, 245);
+    
+}
+
+.editInput {
+    width: 15rem;
+    font-size: 12pt;
+}
+
+.comon {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    border: 1px solid rgb(199,205,210);
+    padding-left: 14px !important;
+    
+}
+
+.editText {
+    margin-left: 14px !important;
+}
+
+.editLabel {
+    position: absolute;
+    right: 5px;
+}
+
+.row8 {
+    position: relative;
+    justify-content: center;
+}
+
+.CheckBoxx {
+    padding-top: 5%;
+}
